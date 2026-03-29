@@ -35,3 +35,9 @@
 ## Approfondissement
 
 <img width="403" height="334" alt="image" src="https://github.com/user-attachments/assets/bbdbc7e9-47fa-4595-8941-74f75305a50c" />
+
+### Automatisation du cycle de vie d'une application Spring Boot via Scripting Bash
+
+<img width="1862" height="905" alt="Capture d&#39;écran 2026-03-29 142700" src="https://github.com/user-attachments/assets/c378767c-70ef-4fd5-b1c6-3cb74b85da9f" />
+
+<img width="1861" height="887" alt="Capture d&#39;écran 2026-03-29 142728" src="https://github.com/user-attachments/assets/2ad1f4fd-0d8a-4663-a741-0b7babfa97cd" />
